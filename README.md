@@ -16,7 +16,7 @@ It uses a trained Ridge Regression model and a Flask web application to take use
 - Pandas
 - Scikit-learn
 - Matplotlib
-ML Project1/
+## ML Project1/
 │
 ├── application.py        # Flask app
 ├── models/
